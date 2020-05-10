@@ -4,7 +4,7 @@ display(image)
 import pytesseract
 
 
-
+#by icreasing base width.
 import PIL
 basewidth =700 
 image = Image.open("notes.png")
